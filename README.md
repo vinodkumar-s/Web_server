@@ -56,8 +56,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![output](/Web_server/output.png)
-![output](/Web_server/output1.png)
+![output](output.png)
+![output](output1.png)
 
 
 ## RESULT:
